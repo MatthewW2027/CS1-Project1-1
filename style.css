@@ -74,3 +74,71 @@ h2{
 .f{ 
     color:rgb(240, 250, 255);
 }
+
+ol{
+    font-weight: 500;
+}
+
+ul{
+    font-weight: 500;
+}
+
+ol#a1 li{
+    background-color: yellow;
+    border-width: 7px; 
+    border-style:groove; 
+    border-color: rgb(220, 199, 36);
+    margin-right: 60%;
+    box-shadow: 10px 10px 10px rgba(220, 199, 36, 0.2);
+    color: rgb(179, 166, 32);
+}
+
+ol#a2 li{
+    background-color: orange;
+    border-width: 7px; 
+    border-style:groove; 
+    border-color: rgb(189, 116, 20);
+    margin-right: 60%;
+    box-shadow: 10px 10px 10px rgba(189, 116, 20, 0.2);
+    color: rgb(167, 118, 40);
+}
+
+ol#a3 li{
+    background-color: white;
+    border-width: 7px; 
+    border-style:groove; 
+    border-color: rgba(255, 154, 22, 0.256);
+    margin-right: 60%;
+    box-shadow: 10px 10px 20px rgba(225, 154, 22, 0.256);
+    color: rgb(184, 137, 134);
+}
+
+ul#b1 li{
+    background-color: yellow;
+    border-width: 7px; 
+    border-style:groove; 
+    border-color: rgb(220, 199, 36);
+    margin-right: 88%;
+    box-shadow: 10px 10px 10px rgba(220, 199, 36, 0.2);
+    color: rgb(179, 166, 32);
+}
+
+ul#b2 li{
+    background-color: orange;
+    border-width: 7px; 
+    border-style:groove; 
+    border-color: rgb(189, 116, 20);
+    margin-right: 85%;
+    box-shadow: 10px 10px 10px rgba(189, 116, 20, 0.2);
+    color: rgb(167, 118, 40);
+}
+
+ul#b3 li{
+    background-color: white;
+    border-width: 7px; 
+    border-style:groove; 
+    border-color: rgba(255, 154, 22, 0.256);
+    margin-right: 47%;
+    box-shadow: 10px 10px 20px rgba(225, 154, 22, 0.256);
+    color: rgb(184, 137, 134);
+}
